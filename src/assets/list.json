@@ -1,0 +1,247 @@
+{
+  "error": 0,
+  "message": "ok",
+  "list":
+  {
+    "104":
+    {
+      "_id": 104,
+      "video_type": "youtube",
+      "name": "Tr\u1ea1ng Nguy\u00ean ch\u00fac m\u1eebng Th\u1ea7y C\u00f4 ng\u00e0y 20\/11",
+      "parent_id": 10,
+      "parent_name": "H\u1ecdc c\u00f9ng Tr\u1ea1ng Nguy\u00ean",
+      "name_ko_dau": "trang-nguyen-chuc-mung-thay-co-ngay-20-11",
+      "url": "https:\/\/www.youtube.com\/watch?v=UF-EYbjdCqA",
+      "duration": 27,
+      "duration_view": "0:0:27",
+      "bitrate": 0,
+      "width": 0,
+      "height": 0,
+      "sort": 0,
+      "thumb": "https:\/\/i.ytimg.com\/vi\/UF-EYbjdCqA\/default.jpg",
+      "description": "Ch\u01b0\u01a1ng tr\u00ecnh H\u1ecdc C\u00f9ng Tr\u1ea1ng Nguy\u00ean v\u1edbi th\u1ebf gi\u1edbi ho\u1ea1t h\u00ecnh th\u00fa v\u1ecb s\u1ebd song h\u00e0nh c\u00f9ng c\u00e1c th\u00e0y c\u00f4",
+      "created_at":
+      {
+        "sec": 1542592235,
+        "usec": 679000
+      },
+      "tags": ["tr\u1ea1ng nguy\u00ean", "h\u1ecdc", "ti\u1ebfng vi\u1ec7t", "to\u00e1n", "ti\u1ebfng anh"]
+    },
+    "105":
+    {
+      "_id": 105,
+      "video_type": "youtube",
+      "name": "TN   T\u1eea \u0110\u1ed2NG \u00c2M",
+      "parent_id": 10,
+      "parent_name": "H\u1ecdc c\u00f9ng Tr\u1ea1ng Nguy\u00ean",
+      "name_ko_dau": "tn-tu-dong-am",
+      "url": "https:\/\/www.youtube.com\/watch?v=l2FJZRDf6vA",
+      "duration": 272,
+      "duration_view": "0:4:32",
+      "bitrate": 0,
+      "width": 0,
+      "height": 0,
+      "sort": 0,
+      "thumb": "https:\/\/i.ytimg.com\/vi\/l2FJZRDf6vA\/default.jpg",
+      "description": "",
+      "created_at":
+      {
+        "sec": 1542592577,
+        "usec": 918000
+      },
+      "tags": [""]
+    },
+    "106":
+    {
+      "_id": 106,
+      "video_type": "youtube",
+      "name": "H\u1ecdc c\u00f9ng Tr\u1ea1ng Nguy\u00ean \"T\u1eeb Tr\u00e1i Ngh\u0129a\"",
+      "parent_id": 10,
+      "parent_name": "H\u1ecdc c\u00f9ng Tr\u1ea1ng Nguy\u00ean",
+      "name_ko_dau": "hoc-cung-trang-nguyen-tu-trai-nghia",
+      "url": "https:\/\/www.youtube.com\/watch?v=rLlTuR6Wp30&t=2s",
+      "duration": 370,
+      "duration_view": "0:6:10",
+      "bitrate": 0,
+      "width": 0,
+      "height": 0,
+      "sort": 0,
+      "thumb": "https:\/\/i.ytimg.com\/vi\/rLlTuR6Wp30\/default.jpg",
+      "description": "T\u1eeb Tr\u00e1i ngh\u0129a l\u00e0 g\u00ec? H\u00e3y \u0111\u1ec3 Minh Trang - Tr\u1ea1ng Nguy\u00ean c\u00f9ng 2 ch\u00fa m\u00e8o con xinh x\u1eafn gi\u00fap s\u1ee9c \u0111\u1ec3 c\u00e1c b\u00e9 hi\u1ec3u r\u00f5 h\u01a1n nh\u00e9!",
+      "created_at":
+      {
+        "sec": 1542592696,
+        "usec": 831000
+      },
+      "tags": ["tr\u1ea1ng nguy\u00ean ti\u1ebfng vi\u1ec7t", "h\u1ecdc c\u00f9ng tr\u1ea1ng nguy\u00ean", "t\u1eeb tr\u00e1i ngh\u0129a", "t\u1eeb \u0111\u1ed3ng ngh\u0129a", "thi ti\u1ebfng vi\u1ec7t", "h\u1ecdc", "to\u00e1n", "ti\u1ebfng anh"]
+    },
+    "118":
+    {
+      "_id": 118,
+      "video_type": "youtube",
+      "name": "B\u1ea3ng Ch\u1eef C\u00e1i Ti\u1ebfng Vi\u1ec7t 01",
+      "parent_id": 10,
+      "parent_name": "B\u00e0i gi\u1ea3ng Ti\u1ebfng Vi\u1ec7t",
+      "name_ko_dau": "bang-chu-cai-tieng-viet-01",
+      "url": "https:\/\/www.youtube.com\/watch?v=HU-dB8pCoA0\t",
+      "duration": 421,
+      "duration_view": "0:7:1",
+      "bitrate": 0,
+      "width": 0,
+      "height": 0,
+      "sort": 0,
+      "thumb": "https:\/\/i.ytimg.com\/vi\/HU-dB8pCoA0\/default.jpg",
+      "description": "K\u00eanh POPS Kids<br\/>N\u1ed9i dung:  K\u00eanh thi\u1ebfu nhi h\u00e0ng \u0111\u1ea7u tr\u00ean YouTube  v\u1edbi c\u00e1c video nh\u1ea1c thi\u1ebfu nhi, c\u00e1c ch\u01b0\u01a1ng tr\u00ecnh gi\u00e1o d\u1ee5c hay nhi\u1ec1u n\u1ed9i dung th\u00fa v\u1ecb n\u1eefa. Nh\u1ea5n subscribe \u0111\u1ec3 theo d\u00f5i nhi\u1ec1u s\u1ea3n ph\u1ea9m m\u1edbi tr\u00ean POPS Kids. <br\/>Subscribe k\u00eanh YouTube : https:\/\/goo.gl\/PN0NVo<br\/>Theo d\u00f5i Facebook:  https:\/\/goo.gl\/CtgDBG<br\/>Theo d\u00f5i G + :  https:\/\/goo.gl\/4uMpkU<br\/>Theo d\u00f5i Twitter: https:\/\/goo.gl\/zcC5ug<br\/>Theo d\u00f5i  c\u00e1c s\u1ea3n ph\u1ea9m m\u1edbi t\u1ea1i App POPS TV:  http:\/\/bit.ly\/1KbPmzi",
+      "created_at":
+      {
+        "sec": 1542619375,
+        "usec": 930000
+      },
+      "tags": ["pops kids", "popskids", "popskid", "thieu nhi"]
+    },
+    "113":
+    {
+      "_id": 113,
+      "video_type": "youtube",
+      "name": "M\u00f4n To\u00e1n: PH\u00c2N S\u1ed0 & PH\u00c9P CHIA S\u1ed0 T\u1ef0 NHI\u00caN",
+      "parent_id": 11,
+      "parent_name": "B\u00e0i gi\u1ea3ng To\u00e1n",
+      "name_ko_dau": "mon-toan-phan-so-phep-chia-so-tu-nhien",
+      "url": "https:\/\/www.youtube.com\/watch?v=YZcaRnIsE2Y",
+      "duration": 272,
+      "duration_view": "0:4:32",
+      "bitrate": 0,
+      "width": 0,
+      "height": 0,
+      "sort": 0,
+      "thumb": "https:\/\/i.ytimg.com\/vi\/YZcaRnIsE2Y\/default.jpg",
+      "description": "M\u1ecdi s\u1ed1 t\u1ef1 nhi\u00ean \u0111\u1ec1u c\u00f3 th\u1ec3 vi\u1ebft th\u00e0nh ph\u00e2n s\u1ed1 v\u1edbi t\u1eed s\u1ed1 l\u00e0 t\u1ef1 nhi\u00ean \u0111\u00f3 v\u00e0 m\u1eabu s\u1ed1 l\u00e0 1",
+      "created_at":
+      {
+        "sec": 1542597768,
+        "usec": 651000
+      },
+      "tags": [""]
+    },
+    "114":
+    {
+      "_id": 114,
+      "video_type": "youtube",
+      "name": "Ph\u00e9p c\u1ed9ng ph\u1ea1m vi 5",
+      "parent_id": 11,
+      "parent_name": "B\u00e0i gi\u1ea3ng To\u00e1n",
+      "name_ko_dau": "phep-cong-pham-vi-5",
+      "url": "https:\/\/www.youtube.com\/watch?v=QMsrwtUEaxk",
+      "duration": 169,
+      "duration_view": "0:2:49",
+      "bitrate": 0,
+      "width": 0,
+      "height": 0,
+      "sort": 0,
+      "thumb": "https:\/\/i.ytimg.com\/vi\/QMsrwtUEaxk\/default.jpg",
+      "description": "",
+      "created_at":
+      {
+        "sec": 1542597797,
+        "usec": 486000
+      },
+      "tags": ["Ph\u00e9p c\u1ed9ng ph\u1ea1m vi 5"]
+    },
+    "115":
+    {
+      "_id": 115,
+      "video_type": "youtube",
+      "name": "Ph\u00e9p c\u1ed9ng ph\u1ea1m vi 4",
+      "parent_id": 11,
+      "parent_name": "B\u00e0i gi\u1ea3ng To\u00e1n",
+      "name_ko_dau": "phep-cong-pham-vi-4",
+      "url": "https:\/\/www.youtube.com\/watch?v=JhLbcMZmmLY",
+      "duration": 87,
+      "duration_view": "0:1:27",
+      "bitrate": 0,
+      "width": 0,
+      "height": 0,
+      "sort": 0,
+      "thumb": "https:\/\/i.ytimg.com\/vi\/JhLbcMZmmLY\/default.jpg",
+      "description": "",
+      "created_at":
+      {
+        "sec": 1542597921,
+        "usec": 534000
+      },
+      "tags": ["Ph\u00e9p c\u1ed9ng ph\u1ea1m vi 4"]
+    },
+    "116":
+    {
+      "_id": 116,
+      "video_type": "youtube",
+      "name": "Ph\u00e9p c\u1ed9ng ph\u1ea1m vi 3",
+      "parent_id": 11,
+      "parent_name": "B\u00e0i gi\u1ea3ng To\u00e1n",
+      "name_ko_dau": "phep-cong-pham-vi-3",
+      "url": "https:\/\/www.youtube.com\/watch?v=uB2eJCknIoc",
+      "duration": 185,
+      "duration_view": "0:3:5",
+      "bitrate": 0,
+      "width": 0,
+      "height": 0,
+      "sort": 0,
+      "thumb": "https:\/\/i.ytimg.com\/vi\/uB2eJCknIoc\/default.jpg",
+      "description": "",
+      "created_at":
+      {
+        "sec": 1542597942,
+        "usec": 804000
+      },
+      "tags": ["Ph\u00e9p c\u1ed9ng ph\u1ea1m vi 3"]
+    },
+    "117":
+    {
+      "_id": 117,
+      "video_type": "youtube",
+      "name": "DEMOtrang nguyen",
+      "parent_id": 11,
+      "parent_name": "B\u00e0i gi\u1ea3ng To\u00e1n",
+      "name_ko_dau": "demotrang-nguyen",
+      "url": "https:\/\/www.youtube.com\/watch?v=YbXLrqKLK7E",
+      "duration": 103,
+      "duration_view": "0:1:43",
+      "bitrate": 0,
+      "width": 0,
+      "height": 0,
+      "sort": 0,
+      "thumb": "https:\/\/i.ytimg.com\/vi\/YbXLrqKLK7E\/default.jpg",
+      "description": "",
+      "created_at":
+      {
+        "sec": 1542619265,
+        "usec": 422000
+      },
+      "tags": [""]
+    },
+    "112":
+    {
+      "_id": 112,
+      "video_type": "youtube",
+      "name": "Vui h\u1ecdc s\u1ed1 \u0111\u1ebfm b\u1eb1ng ti\u1ebfng anh",
+      "parent_id": 12,
+      "parent_name": "B\u00e0i gi\u1ea3ng Ti\u1ebfng Anh",
+      "name_ko_dau": "vui-hoc-so-dem-bang-tieng-anh",
+      "url": "\thttps:\/\/www.youtube.com\/watch?v=BsFDSHJMnpo",
+      "duration": 311,
+      "duration_view": "0:5:11",
+      "bitrate": 0,
+      "width": 0,
+      "height": 0,
+      "sort": 0,
+      "thumb": "https:\/\/i.ytimg.com\/vi\/BsFDSHJMnpo\/default.jpg",
+      "description": "Vui h\u1ecdc s\u1ed1 \u0111\u1ebfm b\u1eb1ng ti\u1ebfng anh L\u00e0 1 s\u1ea3n ph\u1ea9m c\u1ee7a Trang nguyen gi\u00fap c\u00e1c b\u00e9 l\u00e0m quen v\u00e0 h\u1ecdc ti\u1ebfng anh v\u1edbi c\u00e1c s\u1ed1 \u0111\u1ebfm .",
+      "created_at":
+      {
+        "sec": 1542597285,
+        "usec": 626000
+      },
+      "tags": ["Tr\u1ea1ng Nguy\u00ean", "Ti\u1ebfng anh cho b\u00e9", "s\u1ed1 \u0111\u1ebfm ti\u1ebfng anh"]
+    }
+  }
+}
